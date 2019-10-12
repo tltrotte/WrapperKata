@@ -1,3 +1,5 @@
-module.exports = function(){
-    return'hello';
-}
+module.exports = { 
+    Wrapper: function(text, columnNumber) {
+    return 'hello';
+    }
+};
